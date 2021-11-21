@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Wei-Wei</h1>
+<h3 align="center">A master student studying in NYCU. </h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwweiwei&show_icons=true&locale=en&layout=compact" alt="wwweiwei" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wwweiwei&show_icons=true&locale=en" alt="wwweiwei" /></p>
 
 <!--
 **wwweiwei/wwweiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
