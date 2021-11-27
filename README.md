@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Wei-Wei</h1>
-<h3 align="center">A master student studying in NYCU. </h3>
+### Hi 👋, I'm Wei-Wei
+- A master student studying in NYCU.
+- Contact me: wwdu@gapp.nthu.edu.tw
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwweiwei&show_icons=true&locale=en&layout=compact" alt="wwweiwei" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wwweiwei&show_icons=true&locale=en" alt="wwweiwei" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwweiwei&layout=compact&theme=vision-friendly-dark)
+
+![Wei-Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwweiwei&show_icons=true&count_private=true&theme=vision-friendly-dark)
+
 
 <!--
 **wwweiwei/wwweiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
