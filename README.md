@@ -1,6 +1,7 @@
-### Hi 👋, I'm Wei-Wei
-- A master student studying in NYCU.
-- Contact me: wwdu@gapp.nthu.edu.tw
+### Hi 👋, I'm Wei-Wei  ![](https://komarev.com/ghpvc/?username=wwweiwei&color=blue)
+🌱 A master student studying in NYCU (National Yang Ming Chiao Tung University). <br>
+💡 Research interests: Machine Learning, Explainable AI <br>
+💬 Contact me: wwdu@gapp.nthu.edu.tw <br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwweiwei&layout=compact&theme=vision-friendly-dark)
