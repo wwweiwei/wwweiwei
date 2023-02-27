@@ -1,8 +1,8 @@
-### Hi 👋, I'm Wei-Wei  ![](https://komarev.com/ghpvc/?username=wwweiwei&color=blue)
-🌱 A master student studying in NYCU (National Yang Ming Chiao Tung University). <br>
-💡 Research interests: Machine Learning, Explainable AI <br>
-💬 Contact me: wwdu@gapp.nthu.edu.tw <br>
-
+### Hi :smile:, I'm Wei-Wei  ![](https://komarev.com/ghpvc/?username=wwweiwei&color=blue)
+:school: A master student studying in [NYCU](https://en.nycu.edu.tw/) (National Yang Ming Chiao Tung University). <br>
+:bulb: Research interests: Recommender System, Natural Language Processing, Machine Learning, Explainable AI <br>
+:mailbox: Contact me: wwdu.cs10@nycu.edu.tw <br>
+:triangular_flag_on_post: [LinkedIn](https://www.linkedin.com/in/wei-wei-du/), [Medium](https://medium.com/@wwweiwei), [Google Scholar](https://scholar.google.com.tw/citations?user=eOoZEXwAAAAJ&hl=zh-TW&oi=ao), [Website](https://sites.google.com/nycu.edu.tw/wwdu/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwweiwei&layout=compact&theme=vision-friendly-dark)
 
